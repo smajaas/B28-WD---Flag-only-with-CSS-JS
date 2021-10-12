@@ -1,0 +1,41 @@
+.flag {
+    height:250px;
+    width: 100%;
+    /* margin-bottom: 20%; */
+
+}
+
+.flag-container {
+    
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: rgba(0,0,0,0.1)0px 4px 12px;
+    box-shadow: violet;
+    margin: 1em;
+    height: 100%;
+    background-color: slategrey;
+    column-gap: 40px;
+    
+}
+
+.details {
+    padding: 10px;
+}
+
+body {
+
+    color: rgb(216, 201, 191);
+    font-family: "Poppins", sans-serif;
+    background-color: red;
+    
+}
+
+section {
+    
+    row-gap: 10px;
+    column-gap: 10px; 
+}
+
+.row {
+    row-gap: 40px;
+}
